@@ -1,6 +1,7 @@
 package is.tru.truin;
 
 //snorri comment
+//gudny comment
 
 import is.tru.adapter.NavDrawerListAdapter;
 import is.tru.model.NavDrawerItem;
