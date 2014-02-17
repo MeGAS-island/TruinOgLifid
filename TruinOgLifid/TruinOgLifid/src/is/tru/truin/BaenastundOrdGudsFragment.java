@@ -11,20 +11,20 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-public class BaenastundKyrrdFragment extends Fragment implements OnClickListener {
+public class BaenastundOrdGudsFragment extends Fragment implements OnClickListener {
 	
-    Button btnHaldaAfram02;
+    Button btnHaldaAfram04;
 	
-	public BaenastundKyrrdFragment(){}
+	public BaenastundOrdGudsFragment(){}
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
  
-        View rootView = inflater.inflate(R.layout.fragment_baenastund_kyrrd, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_baenastund_ord_guds, container, false);
         
-        Button btnHaldaAfram02 = (Button) rootView.findViewById(R.id.button_002);
-        btnHaldaAfram02.setOnClickListener(this);       
+        Button btnHaldaAfram04 = (Button) rootView.findViewById(R.id.button_004);
+        btnHaldaAfram04.setOnClickListener(this);       
          
         return rootView;
     }
@@ -33,7 +33,7 @@ public class BaenastundKyrrdFragment extends Fragment implements OnClickListener
     public void onClick(View v) {
 
         // Create new fragment and transaction
-        Fragment newFragment = new BaenastundSignaFragment(); 
+        Fragment newFragment = new BaenastundBaeninFragment(); 
         // consider using Java coding conventions (upper char class names!!!)
         android.app.FragmentTransaction transaction = getFragmentManager().beginTransaction();
 
