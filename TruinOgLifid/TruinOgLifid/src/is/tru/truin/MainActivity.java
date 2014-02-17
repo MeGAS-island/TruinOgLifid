@@ -1,7 +1,7 @@
 package is.tru.truin;
 
 //snorri comment
-//gudny comment
+//gudny comment breyting 2
 
 import is.tru.adapter.NavDrawerListAdapter;
 import is.tru.model.NavDrawerItem;
