@@ -18,7 +18,7 @@
           android:layout_above="@+id/button_005"
           android:layout_centerHorizontal="true"
           android:layout_marginBottom="56dp"
-          android:text="Taktu undir þessi bænaorð: (bænin)"
+          android:text="Taktu undir þessi bænaorð:"
           android:textSize="16dp" />
     
 </RelativeLayout>

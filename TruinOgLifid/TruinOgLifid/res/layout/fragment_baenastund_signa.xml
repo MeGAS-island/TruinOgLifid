@@ -17,6 +17,9 @@
           android:layout_height="wrap_content"
           android:layout_above="@+id/button_003"
           android:layout_alignParentLeft="true"
+          android:layout_marginBottom="38dp"
+          android:paddingLeft="15dp"
+          android:paddingRight="15dp"
           android:text="Kyrrðu hugann, signdu þig og einbeittu þér inn á við"
           android:textSize="16dp" />
     

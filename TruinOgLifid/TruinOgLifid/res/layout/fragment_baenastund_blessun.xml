@@ -11,6 +11,8 @@
           android:layout_alignParentTop="true"
           android:layout_marginTop="184dp"
           android:text="Blessun Guðs umvefji þig og fylgi þér hvert sem þú ferð"
+          android:paddingLeft="15dp"
+          android:paddingRight="15dp"
           android:textSize="16dp" />
     
 </RelativeLayout>
