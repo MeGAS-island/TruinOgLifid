@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_bible_black"
+        android:icon="@drawable/ic_cross"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Holo.Light">
         <activity
