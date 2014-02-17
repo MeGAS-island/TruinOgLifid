@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Slider Menu</string>
+    <string name="app_name">Trúin og lífið</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="drawer_open">Slider Menu Opened</string>
@@ -9,12 +9,12 @@
     
     <!-- Nav Drawer Menu Items -->
     <string-array name="nav_drawer_items">
-        <item >Bænastund</item>
-        <item >Almanak</item>
-        <item >Nýtt efni</item>
-        <item >Bænir</item>
-        <item >Postillur</item>
-        <item >Sálmar</item>
+        <item>Bænastund</item>
+        <item>Almanak</item>
+        <item>Nýtt efni</item>
+        <item>Bænir</item>
+        <item>Postillur</item>
+        <item>Sálmar</item>
     </string-array>
     
     <!-- Nav Drawer List Item Icons -->
