@@ -152,11 +152,9 @@ public class MainActivity extends Activity {
 		case 5:
 			fragment = new SalmarFragment();
 			break;
-			
 		case 6:
 			fragment = new BaenastundKyrrdFragment();
 			break;
-
 		default:
 			break;
 		}
